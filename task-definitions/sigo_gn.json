@@ -1,7 +1,7 @@
 [
     {
       "name": "sigo_gn",
-      "image": "gestao_normas",
+      "image": "${repository_url}",
       "cpu": 1024,
       "memory": 2048,
       "essential": true,
